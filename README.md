@@ -1,7 +1,7 @@
 ### Hey 👋
 
 - 😄 I'm Alan Fideliz
-- 🏢 I'm currently working at Medicare Portugal DATAH ...
+- 🏢 I'm currently working at DATAH ...
 
 <!--
 **Alanfideliz96/Alanfideliz96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
