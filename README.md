@@ -1,4 +1,4 @@
-### Eai 👋
+### Hey 👋
 
 - 😄 I'm Alan Fideliz
 - 🏢 I'm currently working at Medicare Portugal DATAH ...
