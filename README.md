@@ -4,7 +4,7 @@
 - 🏢 I'm currently working at Cymeon - Cybersecurity | Development | Innovation ...
 - 🌱 I’m currently learning
 - 💬 Ask me about all the things LOL
-- 
+
 <!--
 **Alanfideliz96/Alanfideliz96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
