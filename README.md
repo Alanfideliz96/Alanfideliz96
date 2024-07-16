@@ -1,7 +1,7 @@
 ### Hey 👋
 
 - 😄 I'm Alan Fideliz
-- 🏢 I'm currently working at Cymeon - Cybersecurity | Development | Innovation ...
+- 🏢 I'm currently working at Cymeon - Cybersecurity | Python | SC-900 | AI ...
 - 🌱 I’m currently learning
 - 💬 Ask me about all the things LOL
 
